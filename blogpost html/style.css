@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    
+}
+body{
+    
+}
+
+h1,h2{
+ color:rgba(11, 136, 45, 0.69);
+ font-size:40;  
+ font-family:arial;
+}
+
+h1{
+    padding-bottom: 30px;
+}
+h2{ padding-top: 10px;
+    padding-bottom: 25px;
+}
+p{ 
+  text-align:justify-all;
+  font-family:sans-serif;  
+}
+.main-text
+{
+    text-align:justify;
+}
+
+#head-text
+{   padding-bottom: 20px;   
+    text-align: center;
+    font-size: 30px;
+    color:rgba(0, 128, 0, 0.89);
+    font-family:cursive;
+}
+.date{
+    position :absolute;
+   right:30px;
+           top:35px;
+}
+.html {
+    background-color:antiquewhite;
+}
+
+.blogpost {
+    background-color: azure;
+}
+
+.other-text {
+    
+    background-color: white;
+}
